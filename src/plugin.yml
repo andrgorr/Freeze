@@ -1,0 +1,10 @@
+name: Freeze
+version: 1.0
+main: me.javipepe.freeze.main
+author: javipepe
+description: Freeze players!
+
+commands:
+    freeze:
+        usage: /freeze <player> (-u)
+        description: (Un)Freeze players
